@@ -1,3 +1,5 @@
+![](https://img.shields.io/pypi/v/django-markdownify-filter)
+
 # django-markdownify-filter
 A template filter to convert HTML strings to Markdown using [Markdownify](https://github.com/matthewwithanm/python-markdownify).
 
